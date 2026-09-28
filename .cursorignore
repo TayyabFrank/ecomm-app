@@ -1,0 +1,54 @@
+# Cursor Ignore File
+# This tells Cursor which files and directories to ignore when reading the codebase.
+
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+*.log
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Android
+android/.gradle/
+android/app/build/
+*.keystore
+*.jks
+local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+
+# Web/Desktop Ephemeral
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# OS/System
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+# Additional ignores
+.git/
+.gitignore
+.flutter-plugins/
+.flutter-plugins-dependencies/
+.metadata
+.coverage/
+.buildlog/

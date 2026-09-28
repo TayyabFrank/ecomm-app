@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055817435620",
+    "project_id": "flutter-ecom-b0048",
+    "storage_bucket": "flutter-ecom-b0048.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055817435620:android:975ccebb821f6d5cda9ff1",
+        "android_client_info": {
+          "package_name": "com.example.flutterecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055817435620-fdj7bf05c9vagijqf4qhob5odlacmtr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM9mD9tXooep5hb-g4128lZ08lGAQIaJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055817435620-fdj7bf05c9vagijqf4qhob5odlacmtr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
